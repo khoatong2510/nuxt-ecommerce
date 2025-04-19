@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+/* @font-face {
+    font-family: "Nunito Sans", sans-serif;
+    src: url('/fonts/NunitoSans.ttf') format('trueType');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+@theme {
+    --font-sans: 'Nunito Sans';
+}
